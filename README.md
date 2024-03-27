@@ -23,7 +23,7 @@
         <option value="cat">고양이</option>
         <option value="dog">강아지</option>
         <option value="gorilla">원숭이</option>
-        <option value="noting">맘에 드는게 없어</option>
+        <option value="noting">맘에 드는게 없다</option>
       </select>
       <br />
       <ol>
